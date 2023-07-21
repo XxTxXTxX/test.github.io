@@ -1,43 +1,3 @@
-# Echo — 开源社区系统
-
----
-
-<br>
-
-<p align="center">
-    <img width="" src="https://gitee.com/veal98/images/raw/master/img/20210211175136.png" >
-</p>
-
-<div align="center">
-
-
-[![star](https://gitee.com/veal98/Echo/badge/star.svg?theme=dark)](https://gitee.com/veal98/Echo/stargazers)
-[![fork](https://gitee.com/veal98/Echo/badge/fork.svg?theme=dark)](https://gitee.com/veal98/Echo/members)
-[![GitHub stars](https://img.shields.io/github/stars/Veal98/Echo?logo=github)](https://github.com/Veal98/Echo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Veal98/Echo?logo=github)](https://github.com/Veal98/Echo/network)
-[![version](https://img.shields.io/badge/version-2.1-brightgreen)]()
-
-
-</div>
-
-> 各位可以参考配套教程自己拉下去部署
-
-## 📚 项目简介
-
-Echo 是一套前后端不分离的开源社区系统，基于目前主流 Java Web 技术栈（SpringBoot + MyBatis + MySQL + Redis + Kafka + Elasticsearch + Spring Security + ...），并提供详细的开发文档和配套教程。包含帖子、评论、私信、系统通知、点赞、关注、搜索、用户设置、数据统计等模块。
-
-**源码链接**：已托管在 Github 和 Gitee：
-
-- Gitee：[https://gitee.com/veal98/Echo](https://gitee.com/veal98/Echo)（Gitee 官方推荐项目）
-- Github：[https://github.com/Veal98/Echo](https://github.com/Veal98/Echo)
-
-**教程地址**：文档通过 <u>Docsify + Github/Gitee Pages</u> 生成
-
-- [https://itmtx.cn/column/12](https://itmtx.cn/column/12)
-
-
-## 💻 核心技术栈
-
 后端：
 
 - Spring
@@ -63,7 +23,6 @@ Echo 是一套前后端不分离的开源社区系统，基于目前主流 Java 
 
 ## 🔨 开发环境
 
-- 操作系统：Windows 10
 - 构建工具：Apache Maven
 - 集成开发工具：Intellij IDEA
 - 应用服务器：Apache Tomcat
@@ -72,65 +31,7 @@ Echo 是一套前后端不分离的开源社区系统，基于目前主流 Java 
 - 版本控制工具：Git
 - Java 版本：8
 
-## 🎀 界面展示
 
-首页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205641.png)
-
-登录页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205558.png)
-
-密码重置页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210709003428.png)
-
-帖子发布页（支持 MarkDown）：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210512101041.png)
-
-帖子详情页（MarkDown 渲染）：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210512101202.png)
-
-帖子详情页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205741.png)
-
-
-
-个人主页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205820.png)
-
-朋友私信页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205857.png)
-
-私信详情页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211205948.png)
-
-系统通知页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211210122.png)
-
-通知详情页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211210152.png)
-
-账号设置页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211210238.png)
-
-数据统计页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211210323.png)
-
-搜索详情页：
-
-![](https://gitee.com/veal98/images/raw/master/img/20210211210531.png)
 
 ## 🎨 功能列表
 
